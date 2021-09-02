@@ -8,3 +8,4 @@ labels:
   - Learning
 ---
 
+As of right now, I am currently learning Javascript for my Introduction to Software Engineering Class. 
