@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/AlarmClock.jpg
 title: Alarm Clock
 permalink: projects/Alarm_Clock
 # All dates must be YYYY-MM-DD format!
