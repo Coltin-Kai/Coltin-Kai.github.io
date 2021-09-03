@@ -5,7 +5,7 @@ image: images/AlarmClock.jpg
 title: Alarm Clock
 permalink: projects/Alarm_Clock
 # All dates must be YYYY-MM-DD format!
-date: 2021-09-01
+date: 2018-03-25
 labels:
   - Arduino
   - C
