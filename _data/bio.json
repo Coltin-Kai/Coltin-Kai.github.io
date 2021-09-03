@@ -79,8 +79,6 @@
       ]
     }
   ],
-  "work": [
-  ],
   "volunteer": [
     {
       "organization": "Ronald McDonald House Charity",
@@ -89,12 +87,8 @@
       "startDate": "2018-11-25",
       "endDate": "2018-12-9",
       "summary": "Worked with a team to remove pearls from clams to help profit the organization",
-      "highlights": [
+      "highlights": ["Dissucssed and organized ourselves to work efficiently as a team"
       ]
     },
   ],
-  "awards": [
-  ],
-  "references": [
-  ]
 }
