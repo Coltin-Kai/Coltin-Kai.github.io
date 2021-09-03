@@ -11,3 +11,5 @@ labels:
   - C
 summary: I developed a working alarm clock using an Arduino and the C language.
 ---
+
+<img class="ui medium right floated rounded image" src="../images/AlarmClock.jpg>
