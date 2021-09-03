@@ -7,7 +7,7 @@ permalink: projects/Pong
 # All dates must be YYYY-MM-DD format!
 date: 2017-05-11
 labels:
-  -Java
+  Java
 summary: I worked with a team to create a game similiar to the video game Pong
 ---
 
