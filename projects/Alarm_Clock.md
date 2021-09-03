@@ -9,5 +9,5 @@ date: 2021-09-01
 labels:
   - Arduino
   - C
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: I developed a working alarm clock using an Arduino and the C language.
 ---
