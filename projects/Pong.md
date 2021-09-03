@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/PingPongPaddles.jpg
+image: images/PingPongPaddlesCropped.jpg
 title: Pong
 permalink: projects/Pong
 # All dates must be YYYY-MM-DD format!
