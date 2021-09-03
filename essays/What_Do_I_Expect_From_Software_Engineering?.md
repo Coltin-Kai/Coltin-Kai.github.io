@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: What Do I Expect From Software Engineering?
 # All dates must be YYYY-MM-DD format!
-date: 2021-09-2
+date: 2021-09-02
 labels:
   - Software Engineering
   - Learning
