@@ -8,7 +8,7 @@ labels:
   - Learning
 ---
 
-  The first time I was exposed to StackOverflow was when I was learning Java, my first language. My first impression of the site was a feeling of awe. It is a hub where many programming problems and questions can be presented and answered by talented developers. With so many questions already answered and the opportunity to ask questions myself, I felt that there was a great resource to help solve many problems that I may face in the future.
+  The first time I was exposed to StackOverflow was when I was learning my first language Java. My first impression of the site was a feeling of awe. It is a hub where many programming problems and questions can be presented and answered by talented developers. With so many questions already answered and the opportunity to ask questions myself, I felt that there was a great resource to help solve many problems that I may face in the future.
   
   However, there was a catch. After looking at many StackOverflow questions since then, I began to see how the questions are usually formatted and asked. And this made me more nervous and careful on how I would ask these questions on forums like these. What kind of question is asked and how it is presented can affect what kind of answers you get. These answers can be professionally presented and does a good job explaining the solution or explanation to the problem. Or, it can be snarky in response to a badly asked question or even a question that shouldn't be asked in the first place. 
  
