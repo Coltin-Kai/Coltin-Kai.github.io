@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: There Are Smarter Ways To Code
-date: 2021-09-01
+date: 2021-12-02
 labels:
   - Design Patterns
 ---
