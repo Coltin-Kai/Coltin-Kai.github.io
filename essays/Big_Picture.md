@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: The Big Picture
-date: 2021-09-01
+date: 2021-12-16
 labels:
   - Software Engineering
 ---
