@@ -6,6 +6,7 @@ date: 2021-12-16
 labels:
   - Software Engineering
 ---
+
 ###ICS 314, Where It Started
 
 For the fall 2021 semester, I was introduced to the wonderful pipeline that allows the creation of software, the things that are practically used all the time in our daily life. Now when I first joined the class, I didn’t think we'd start learning things like Javascript, HTML, creating websites, etc. Many of the languages, tools, and technical skills that I learned in this class may be useful to know. However my interest in other topics and careers would probably not use these things too much or even not at all. But they were the means by which we can learn key software engineering concepts that are absolutely practical in either personal side projects or software development jobs.
