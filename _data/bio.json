@@ -54,7 +54,10 @@
         "Java",
         "C#",
         "Lua",
-        "XML"
+        "XML",
+        "HTML",
+        "Javascript",
+        "CSS"
       ]
     },
     {
