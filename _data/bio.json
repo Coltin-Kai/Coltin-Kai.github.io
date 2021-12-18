@@ -91,4 +91,16 @@
       ]
     },
   ],
+  "work": [
+    {
+      "position": "Teacher's Assistant",
+      "startDate": "2021-09-25",
+      "endDate": "2021-12-18",
+      "summary": "Graded student's homeworkss and exams",
+      "highlights": [
+        "Created answer sheets for the homework that were given to other TAs and students after the grade was published",
+        "Returned homework back to students with advice and published their grades"
+      ]
+    }
+  ],
 }
