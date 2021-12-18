@@ -16,7 +16,7 @@ summary: For ICS 341, my team and I worked on creating a website for UH Manoa st
 
 The website we have created uses a combination of many tools and languages like HTML, Javascript, React, etc. This allows the site to have both dynamic functionality and good user interfaces. The main goal of the site is to  allow users to meet other users, learn more about them, and make contact with each other. That is why features like being able to search users by certain tags or creating Jam Sessions were implemented.
 
-<img class="ui medium right floated rounded image" src="../images/">
+<img class="ui medium right floated rounded image" src="../images/UserHome.png">
 
 My part of the project involves many things, as my team members and I had many tasks to complete throughout the developing part of the project. But one feature I can highlight that I worked on was the user home page. This page displays a whole list of users. This list can be easily filtered through the use of the search bar and checkbox of tags. A lot of this is possible through Meteor’s ability to create states and refresh the page in an instant.
 
